@@ -1,0 +1,5 @@
+{
+  "name": "Aplikasi Belajar Al-Qur'an Interaktif",
+  "description": "Aplikasi web edukasi interaktif yang membantu pemula belajar membaca Al-Qur’an melalui tampilan UI modern, navigasi sederhana, dan interaksi seperti klik, audio, highlight, dan kuis.",
+  "requestFramePermissions": []
+}
